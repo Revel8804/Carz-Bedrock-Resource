@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Carz Bedrock Pack",
+    "name": "Carz Bedrock Pack",
+    "uuid": "dbead343-249a-4ed6-9c62-65eb383dc906",
+    "version": [1, 0, 0],
+	"min_engine_version": [1, 18, 0]  // Example version, change as needed
+  },
+  "modules": [
+    {
+      "description": "Carz Bedrock Pack",
+      "type": "resources",
+      "uuid": "6f9101bf-8aa5-4b81-81f5-2ff671c28aa9",
+      "version": [1, 0, 0]
+    }
+  ]
+}
